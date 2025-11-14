@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I’m **Đạt (Huỳnh Thanh Đạt)**  
+*Just a guy who builds whatever he wants 🤖🔥*
+📍 Ho Chi Minh City, Việt Nam
 
-<!--
-**dathuynh1108/dathuynh1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I’m passionate about building robust systems and solving challenging problems at the intersection of software engineering, artificial intelligence, and mathematics.  
+With hands-on experience in deep academic interests (category theory, optimization, dialectical materialism), infrastructure (CI/CD, Kubernetes, DevOps) and analytics systems (reporting, dashboards, BI). I bring a holistic and rigorous mindset to each project.
 
-Here are some ideas to get you started:
+## 📫 Connect with Me  
+- LinkedIn: [in/huynhthanhdat](https://www.linkedin.com/in/huynhthanhdat)  
+- 🌐 Based in: Ho Chi Minh City, Việt Nam  
+- 📨 Feel free to drop me a message if you’d like to collaborate on ML, DevOps, analytics, or academic research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+✨ Thanks for visiting my profile — dive into my repos, explore the code, and let’s build something great together!
