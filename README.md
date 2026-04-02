@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 I’m passionate about building robust systems and solving challenging problems at the intersection of software engineering, artificial intelligence, and mathematics.  
-With hands-on experience in deep academic interests (category theory, optimization, dialectical materialism), software and infrastructure (CI/CD, Kubernetes, DevOps) and analytics systems (reporting, dashboards, BI). I bring a holistic and rigorous mindset to each project.
+With hands-on experience in deep academic interests (machine and deep learning, category theory, optimization, dialectical materialism), software and infrastructure (CI/CD, Kubernetes, DevOps) and analytics systems (reporting, dashboards, BI). I bring a holistic and rigorous mindset to each project.
 
 ## 📫 Connect with Me  
 - LinkedIn: [in/huynhthanhdat](https://www.linkedin.com/in/huynhthanhdat)
