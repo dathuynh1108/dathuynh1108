@@ -1,4 +1,4 @@
-# Hi there 👋 I’m **Đạt (Huỳnh Thanh Đạt)**  
+# Hi there 👋 I’m **Đạt (Huỳnh Thành Đạt)**  
 
 *Just a guy (from HCMUT 🦁) who builds whatever he wants 🤖🔥*
 
